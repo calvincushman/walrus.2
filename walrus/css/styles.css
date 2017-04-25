@@ -10,3 +10,12 @@ p {
 p:hover {
   text-decoration: underline;
 }
+
+.black-background {
+  background-color: black;
+  color: white;
+}
+
+
+/*Update your dog blog or cat homepage to include a button that lets your users switch to light on dark.*/
+/*Now, update this page so that users can switch back to the original color scheme.*/
