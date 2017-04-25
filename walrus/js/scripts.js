@@ -5,6 +5,10 @@ $(document).ready(function() {
   });
 
   $("button#black").click(function() {
+    $("body").removeClass();
     $("body").addClass("black-background");
+  });
+  $("button#light").click(function() {
+    $("body").removeClass();
   });
 });
